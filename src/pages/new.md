@@ -1,5 +1,5 @@
 ---
-title: Dettol
+title: Dettol live
 seo:
   title: ''
   description: ''
